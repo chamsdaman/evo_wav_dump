@@ -2,6 +2,6 @@ This utility is designed to dump custom single cycle .wav samples into the Dave 
 
 Audio must be a 16bit Mono wav file.
 
-For Windows Only
+This repository includes both copies for Windows and Mac OS
 
 You're welcome!
